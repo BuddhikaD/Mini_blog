@@ -17,6 +17,20 @@ function App() {
             </Route>
             <Route path="/create">
               <Create />
+            <Route path="/create">
+              <Create />
+            <Route path="/create">
+              <Create />
+<Route path="/delete">
+              <Create />
+    <Route path="/404">
+              <Create />
+    <Route path="/download">
+              <Create />
+    <Route path="/create">
+              <Create /><Route path="/faq">
+              <Create /><Route path="/kk">
+              <Create />
             </Route>
             <Route path="/blogs/:id">
               <BlogDetails />
